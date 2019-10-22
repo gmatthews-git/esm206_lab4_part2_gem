@@ -1,1 +1,11 @@
-# esm206_lab4_part2_gem
+My awesome README!
+
+- Some
+- bullet
+- points
+
+
+And other **useful information!**
+
+
+*YAY*
